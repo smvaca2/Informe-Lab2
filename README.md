@@ -17,13 +17,13 @@ III)Examinar los valores arrojados por el multimetro en el circuito simulado, f�
 
 ***2.-MARCO TEÓRICO***
 
-![]()
+![](https://github.com/smvaca2/Informe-Lab2/blob/b61ebbd0e5381c7c05a28bc11278e862f8c25a18/analisis%20de%20mallas.PNG)
 
 ***3.-EXPLICACIÓN DEL PROCEDIMIENTO***
 
-![]()
+![](https://github.com/smvaca2/Informe-Lab2/blob/b61ebbd0e5381c7c05a28bc11278e862f8c25a18/WhatsApp%20Image%202022-06-06%20at%209.47.47%20PM.jpeg)
 
-![]()
+![](https://github.com/smvaca2/Informe-Lab2/blob/b61ebbd0e5381c7c05a28bc11278e862f8c25a18/WhatsApp%20Image%202022-06-06%20at%209.54.59%20PM.jpeg)
 
 ***4.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR***
 
@@ -46,13 +46,13 @@ circuito.
 
 **4.4.-Material y equipo requerido**
 
-![]()
+![](https://github.com/smvaca2/Informe-Lab2/blob/b61ebbd0e5381c7c05a28bc11278e862f8c25a18/materiales.PNG)
 
 **4.5.-Procedimiento**
 
 **4.5.1.-Implemente el circuito que se presenta en la figura 2.1**
 
-![]()
+![](https://github.com/smvaca2/Informe-Lab2/blob/b61ebbd0e5381c7c05a28bc11278e862f8c25a18/circuito.PNG)
 
 **4.5.2.-Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.**
 
