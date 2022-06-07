@@ -70,6 +70,8 @@ Como podemos ver al realizar el calculo por el método de mallas, las corrientes
 
 ![](https://github.com/smvaca2/Informe-Lab2/blob/22b78cad2c7f64420835e5bc97763b4ca358c6bc/WhatsApp%20Image%202022-06-06%20at%209.34.04%20PM.jpeg)
 
+Con el circuito en físico existe un 20% de error, ya sea por deterioro de las fuentes de voltaje, fallos en las resistenicas u otras circunstancias, el error existe y es del 20%.
+
 ***5.-VIDEO***
 
 ***6.-CONCLUSIONES***
