@@ -74,6 +74,8 @@ Con el circuito en físico existe un 20% de error, ya sea por deterioro de las f
 
 ***5.-VIDEO***
 
+https://youtu.be/fy4Ex5XLtCc
+
 ***6.-CONCLUSIONES***
 
 Con la realización de este informe se pudo conocer sobre el análisis de mallas y la resolución de problemas de circuitos con conocimientos previos de las leyes de Kirchhoff. Fue importante conocer estas leyes y polaridades para poder realizar los calculos análiticos.
@@ -82,3 +84,5 @@ Uno de los puntos más importantes de este circuito fue poder realizarlo en fís
 ***7.-BIBLIOGRAFÍA***
 
 _Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson
+
+_Irwin, J. D., & Alvarado, E. V. (1997). Análisis básico de circuitos en Ingeniería. Prentice-Hall Hispanoamericana.
