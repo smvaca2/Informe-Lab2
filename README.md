@@ -60,11 +60,11 @@ circuito.
 
 **4.5.4.-Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
-![]()
+![](https://github.com/smvaca2/Informe-Lab2/blob/22b78cad2c7f64420835e5bc97763b4ca358c6bc/WhatsApp%20Image%202022-06-06%20at%209.53.47%20PM.jpeg)
 
 **CALCULO DE ERRORES DE LAS MEDICIONES Y COMENTAR LOS RESULTADOS**
 
-![]()
+![](https://github.com/smvaca2/Informe-Lab2/blob/22b78cad2c7f64420835e5bc97763b4ca358c6bc/WhatsApp%20Image%202022-06-06%20at%209.34.04%20PM.jpeg)
 
 ***5.-VIDEO***
 
