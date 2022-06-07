@@ -23,7 +23,7 @@ III)Examinar los valores arrojados por el multimetro en el circuito simulado, f�
 
 ![](https://github.com/smvaca2/Informe-Lab2/blob/b61ebbd0e5381c7c05a28bc11278e862f8c25a18/WhatsApp%20Image%202022-06-06%20at%209.47.47%20PM.jpeg)
 
-![](https://github.com/smvaca2/Informe-Lab2/blob/b61ebbd0e5381c7c05a28bc11278e862f8c25a18/WhatsApp%20Image%202022-06-06%20at%209.54.59%20PM.jpeg)
+![](https://github.com/smvaca2/Informe-Lab2/blob/6bd7b9c385ba0dae11cd3fa693eed9b4b3137ae0/WhatsApp%20Image%202022-06-06%20at%209.54.43%20PM.jpeg)
 
 ***4.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR***
 
@@ -58,9 +58,13 @@ circuito.
 
 **4.5.3.-Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
 
+![](https://github.com/smvaca2/Informe-Lab2/blob/b61ebbd0e5381c7c05a28bc11278e862f8c25a18/WhatsApp%20Image%202022-06-06%20at%209.54.59%20PM.jpeg)
+
 **4.5.4.-Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
 ![](https://github.com/smvaca2/Informe-Lab2/blob/22b78cad2c7f64420835e5bc97763b4ca358c6bc/WhatsApp%20Image%202022-06-06%20at%209.53.47%20PM.jpeg)
+
+Como podemos ver al realizar el calculo por el método de mallas, las corrientes varían solo por decimales de los resultados del simulador, por otro lado, los resultados experimentales tienen un margen de error del 10% por cada voltaje medido, pero podemos analizar que no varia mucho tampoco ya que un margen del 10% es un porcentaje de error bajo.
 
 **CALCULO DE ERRORES DE LAS MEDICIONES Y COMENTAR LOS RESULTADOS**
 
